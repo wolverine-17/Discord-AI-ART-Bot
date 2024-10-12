@@ -1,0 +1,9 @@
+discord.py
+aiohttp
+python-dotenv
+colorama
+langdetect
+requests
+firebase-admin
+psutil
+datetime
